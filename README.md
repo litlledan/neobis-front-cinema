@@ -19,5 +19,4 @@ As well you can search interested films entering the film title or the keyword i
 
 Enjoy!
 
-Created by Sardana Dordzhieva <br></br>
-E-mail: sardanadord@yandex.ru 
+ 
